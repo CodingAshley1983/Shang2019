@@ -108,8 +108,8 @@ class myLineup extends Component {
                             Get Bands
                         </Button>
                         </Link>
-                        <FacebookShareButton 
-                         className="button" variant="outline-info btn-large" url={window.location+"/"+this.props.auth.user.id} children={Schedule}  quote={"Check out myLineup for Shangri-La!      Get the Shang app:www.ShangApp.com"} hashtag={"#ShangriLa2019"}onClick={this.shareButton}>
+                        <FacebookShareButton as Button
+                         className="button" variant="outline-info btn-large" url={window.location.href+"/"+this.props.auth.user.id} children={Schedule}  quote={"Check out myLineup for Shangri-La!      Get the Shang app:www.ShangApp.com"} hashtag={"#ShangriLa2019"}onClick={this.shareButton}>
                             Share
                             
                         </FacebookShareButton>

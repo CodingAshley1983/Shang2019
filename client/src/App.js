@@ -35,9 +35,9 @@ import sharemyLineup from './Pages/sharemyLineup';
 import "../src/Components/BandCards/Bandcards.css";
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { fab } from '@fortawesome/free-brands-svg-icons';
-import { faCheckSquare, faCoffee, faInfoCircle, faHeart, faFire, faUserTimes, faUserCheck} from '@fortawesome/free-solid-svg-icons';
+import { faCheckSquare, faCoffee, faInfoCircle, faHeart, faFire, faUserTimes, faUserCheck,faCheckCircle} from '@fortawesome/free-solid-svg-icons';
 
-library.add(fab, faCheckSquare, faCoffee, faInfoCircle, faHeart, faFire, faUserTimes, faUserCheck);
+library.add(fab, faCheckSquare, faCoffee, faInfoCircle, faHeart, faFire, faUserTimes, faUserCheck, faCheckCircle);
 
 
 // Check for token to keep user logged in

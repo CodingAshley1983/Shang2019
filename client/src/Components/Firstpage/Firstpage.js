@@ -36,7 +36,7 @@ class Firstpage extends Component {
         return (
             <Container id="firstpage-main">
                 <div className="firstpage-content">
-                    <h2><span className="not-bold">Welcome to your</span> Shangri-La <span className="not-bold">app</span>! </h2>
+                    <h2 className="not-bold">Welcome to your<strong>Shangri-La 2019</strong>app!</h2>
                     <h4>Browse stages above to find new, and favorite bands</h4>
                     <p>First time user? Log in now to access myLineup  <FontAwesomeIcon icon="user-check"></FontAwesomeIcon></p>
                     <p>myLineup is a personalized, shareable lineup of the shows you don't want to miss!</p>

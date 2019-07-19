@@ -17,3 +17,9 @@ body{
   #ladybrains{
     color:hotpink;
   }
+
+  @media screen and (max-width:600px){
+  .not-bold{
+    font-size:16px;
+  }
+}
