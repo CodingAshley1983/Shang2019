@@ -24,7 +24,7 @@ const bandSeed = [
 
         "stage": "Main",
         "band": "Wookiefoot",
-        "time": "11:00pm",
+        "time": "11:15pm-12:45",
         "day": "Sunday",
         "image": "https://firebasestorage.googleapis.com/v0/b/art-portfolio-project02.appspot.com/o/wookiefoot.jpg?alt=media&token=d4257b30-c1d4-48a8-908c-3ee22c4a4ec0",
         "url": "http://www.wookiefoot.com",
@@ -42,9 +42,9 @@ const bandSeed = [
     },
     {
 
-        "stage": "Side",
+        "stage": "Main",
         "band": "Satsang",
-        "time": "9:00pm",
+        "time": "6:00pm",
         "day": "Sunday",
         "image": "https://image-ticketfly.imgix.net/00/02/73/25/37-og.JPG?w=500&h=333",
         "url": "http://www.satsangmovement.com/about",
@@ -64,8 +64,8 @@ const bandSeed = [
 
         "stage": "Side",
         "band": "YAIMA",
-        "time": "6:00pm",
-        "day": "Saturday",
+        "time": "10-11:15pm",
+        "day": "Sunday",
         "image": "https://shangrilafest.com/wp-content/uploads/2018/03/SL18_Yaima.jpg",
         "url": "https://www.yaimamusic.com/",
         "bio": "YAIMA’s music is interwoven with intention and acknowledgment for the elementals. As the earth transmutes through fire, the winds move the water, the water falls and replenishes the earth- the cycles of gratitude and reciprocity is what weaves these harmonies and deeply pulsing rhythms into a unique and balanced sensational journey."
@@ -86,7 +86,7 @@ const bandSeed = [
     {
 
         "stage": "Side",
-        "band": "Ayla Nero",
+        "band": "Ayla",
         "time": "2:30-3:45pm",
         "day": "Saturday",
         "image": "https://shangrilafest.com/wp-content/uploads/2019/02/ayla-Sized.jpg",
@@ -107,10 +107,10 @@ const bandSeed = [
 
     {
 
-        "stage": "Harmonium",
+        "stage": "Side",
         "band": "The Late Ones",
-        "time": "7:00pm",
-        "day": "Friday",
+        "time": "7:15-8:30pm",
+        "day": "Sunday",
         "image": "https://shangrilafest.com/wp-content/uploads/2019/02/the-lateones-sized.jpg",
         "url": "http://www.thelateones.com/",
         "bio": "  Based out of Laie, Hawaii, brothers Tui Avei (Lead vocals), and Tau Avei (Vocals), along with cousin Josh Brunson (Vocals) are the voices. Built on a roots reggae foundation with influences from various genres like Hip-hop, R&B, and jazz, The Late Ones’ unique blend of style, and harmony shapes a youthful, yet old school reggae vibe."
@@ -118,10 +118,10 @@ const bandSeed = [
 
     {
 
-        "stage": "Harmonium",
+        "stage": "Main",
         "band": "Indubious",
-        "time": "8:00pm",
-        "day": "Saturday",
+        "time": "4-5:15pm",
+        "day": "Sunday",
         "image": "https://shangrilafest.com/wp-content/uploads/2019/03/indubious-sized2.jpg",
         "url": "https://www.indubiousmusic.com/",
         "bio": "The story of Indubious is not for the faint of heart. Like a phoenix rising from the ashes, Indubious was forged in the fires of pain and destruction. Evton and Skip, brothers and bandmates born with Cystic Fibrosis and convinced by doctors of their impending death from an early age, have emerged as a powerful force for change and the future of conscious music. Their only choice has always been mind over matter, and time has proven that their unbending positive outlook, combined with an inspiring message of love and hope, has not only helped them overcome personal hardship, but catapulted their music onto the world stage with an unstoppable momentum."
@@ -164,7 +164,7 @@ const bandSeed = [
 
         "stage": "Side",
         "band": "TreeHouse",
-        "time": "4:00pm",
+        "time": "3-4pm",
         "day": "Saturday",
         "image": "https://firebasestorage.googleapis.com/v0/b/art-portfolio-project02.appspot.com/o/treehouse2-1.jpg?alt=media&token=c4d92701-b8e7-4557-8e4e-dcafe27f73d8",
         "url": "https://www.treehousetheband.com/",
@@ -172,9 +172,9 @@ const bandSeed = [
     },
     {
 
-        "stage": "Side",
+        "stage": "Harmonium",
         "band": "Spectacle",
-        "time": "7:00pm",
+        "time": "8-9:00pm",
         "day": "Saturday",
         "image": "https://shangrilafest.com/wp-content/uploads/2019/02/Spectacle-sized.jpg",
         "url": "https://open.spotify.com/artist/2bbdIwhUzDSIowbxfTbj2O#_=_",
@@ -187,8 +187,8 @@ const bandSeed = [
 
         "stage": "Main",
         "band": "Heatbox",
-        "time": "4:00pm",
-        "day": "Saturday",
+        "time": "2-3:00pm",
+        "day": "Sunday",
         "image": "https://shangrilafest.com/wp-content/uploads/2018/07/sl18_0013_Heatbox.jpg",
         "url": "https://www.heatboxllc.com/",
         "bio": "Heatbox, aka The One Man Entertainment System, is a Minneapolis based funky beatboxing loop artist, video game show host, voice over actor, and computer programmer."
@@ -208,7 +208,7 @@ const bandSeed = [
 
         "stage": "Harmonium",
         "band": "Kind Country",
-        "time": "4:00pm",
+        "time": "9:45-11pm",
         "day": "Friday",
         "image": "https://shangrilafest.com/wp-content/uploads/2018/07/sl18_0010_kindcountry.jpg",
         "url": "https://www.kindcountryband.com/",
@@ -226,9 +226,9 @@ const bandSeed = [
     },
     {
 
-        "stage": "Main",
+        "stage": "Harmonium",
         "band": "Mae Simpson",
-        "time": "9:00pm",
+        "time": "6:15-7:15pm",
         "day": "Friday",
         "image": "https://shangrilafest.com/wp-content/uploads/2018/07/sl18_0009_mae_simpson.jpg",
         "url": "https://maesimpsonmusic.com/",
@@ -300,7 +300,7 @@ const bandSeed = [
 
         "stage": "Harmonium",
         "band": "Earth to Clark",
-        "time": "4:30pm",
+        "time": "2:45-3:45pm",
         "day": "Friday",
         "image": "https://shangrilafest.com/wp-content/uploads/2019/03/Earth-to-clark.jpg",
         "url": "https://www.earthtoclark.com/",
@@ -323,8 +323,8 @@ const bandSeed = [
 
         "stage": "Side",
         "band": "SisterTree",
-        "time": "1:00pm",
-        "day": "Saturday",
+        "time": "1-2pm",
+        "day": "Sunday",
         "image": "https://shangrilafest.com/wp-content/uploads/2018/07/sl18_0003_sistertree.jpg",
         "url": "https://sistertreemusic.com/",
         "bio": "Picture a night of tunes and friendships new and old, seeking the alchemy of fulfillment in the glow of comrades circled in song. Twists and turns of phrase and plot brought Dee and Kerri together in just such a setting. Coiling cables, hoisting speakers, and buckling shoes and giving their all, they have come a long way from whiffling sound effects and harmonies in studio with local singer-songwriter Shawn McBurnie and his MN Arts Board grant project titled “Fearsome Critters,” where they re-imagined the tall tales of river workers, loggers, mill workers and miners as fodder for song. Where that ensemble brought new breath and strains to yarns that had grown little-known since they were first spun by our forebears, SisterTree has come to animate and deluge with sound and solace the worker, the protector, the wearied parent, the lonesome soul, the rowdy friend, and the kindred spirit. In their musing of post-mythic Northwoods revivalism, Kerri and Dee found magic in the spontaneous harmony line–and together they conjure something new."
@@ -362,18 +362,18 @@ const bandSeed = [
     },
     {
 
-        "stage": "Om Dome",
+        "stage": "Harmonium",
         "band": "Riconekt",
-        "time": "7:30pm",
+        "time": "1-2pm",
         "day": "Friday",
         "image": "https://static.wixstatic.com/media/38b2fc_54d05b0df7f94cf392731cd9bfe579cf~mv2.jpg/v1/fill/w_393,h_264,al_c,q_80,usm_0.66_1.00_0.01/38b2fc_54d05b0df7f94cf392731cd9bfe579cf~mv2.webp",
         "url": "https://www.facebook.com/Riconekt/",
         "bio": " I am an activist, artist, & Lyracist striving to bring EMPOWERING words to the people. I Rap, sing, beatbox, & play the ukulele with a variety of musicians. I've been traveling almost a decade sharing my conscious flowetry with the world."
     },
     {
-        "stage": "Harmonium",
+        "stage": "Main",
         "band": "Mike Love",
-        "time": "6pm",
+        "time": "8:30-10pm",
         "day":  "Sunday",
         "image": "https://firebasestorage.googleapis.com/v0/b/art-portfolio-project02.appspot.com/o/themovement.jpg?alt=media&token=ca8ad7db-1e50-490f-933e-6b3ab0ae94d1",
         "url":  "https://www.mikelovemusic.com",
@@ -388,6 +388,24 @@ const bandSeed = [
         "url": "https://www.facebook.com/Riconekt/",
         "bio": " Ask her where she comes from and she’ll tell you “All directions.” It’s an apt description of a singer who defies boundaries; culturally, musically and spiritually.  Known for their epic, high energy, thought provoking and uplifting live performances, with a heavy global tour schedule, the new international band (Australia/Jamaica) delivers a raw energy and vibe, channeling a deep reggae influence in a New Era Style. But this is more than genre labels. The music, message & intention transcends. Get ready to be moved!"
 
+    },
+    {
+        "stage": "Harmonium",
+        "band": "Space Monkey Mafia",
+        "time": "4:30-5:30pm",
+        "day": "Sunday",
+        "image": "",
+        "url": "",
+        "bio": "",
+    }, 
+    {
+        "stage": "Harmonium",
+        "band": "Tim-Chitty-Pato",
+        "time": "4:50-6:15pm",
+        "day": "Saturday",
+        "image":"",
+        "url": "",
+        "bio": "",
     }
 ];
 console.log("end of the band data", db.Bands)

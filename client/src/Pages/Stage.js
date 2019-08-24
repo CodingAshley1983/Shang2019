@@ -32,7 +32,8 @@ class Stage extends Component {
       bio: "",
       _id: "",
       userId: "",
-      loggedText: ""
+      loggedText: "",
+      added:Boolean,
     };
   }
 
@@ -86,8 +87,10 @@ class Stage extends Component {
     if (this.props.auth.isAuthenticated) {
       const userId = this.props.auth.user.id
       API.addBand(userId, bandId)
-
-
+      // .then(res =>
+      // this.setState({added:true})
+        
+      // )
     }
     else (
       alert("Login to add to your lineup")
@@ -117,6 +120,7 @@ class Stage extends Component {
               url={band.url}
               bio={band.bio}
               addBand={this.addBand}
+              added={this.added}
 
 
 

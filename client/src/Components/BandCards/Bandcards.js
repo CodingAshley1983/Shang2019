@@ -26,9 +26,12 @@ const Bandcards = props => (
   </Card.ImgOverlay>
   <Card.Footer id="footer">
     <Button className="btn-success btn-large" href={props.url}><FontAwesomeIcon icon="info-circle"/></Button>
-    {/* <div id="check-mark"><FontAwesomeIcon icon="check-circle"/></div> */}
-    <Button variant="outline-primary btn-large" value={props._id} onClick={() => props.addBand(props._id)}>+myLineup</Button>
     
+    <Button variant="outline-primary" className={props.added ?'show':'hidden'}>Added!</Button> :
+    
+    
+    <Button className={props.added ? 'hidden':'show'} variant="outline-primary btn-large" value={props._id} onClick={() => props.addBand(props._id)}>+myLineup</Button>
+}
     
   </Card.Footer>
 </Card>
