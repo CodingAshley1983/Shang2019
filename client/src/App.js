@@ -88,9 +88,9 @@ class App extends Component{
           <Route exact path="/register" component={Register} />
           <Route exact path="/login" component={Login} />
           <Route exact path='/search' component={Stage} />
-          <Route exact path="/main" component={Mainstage} />
-          <Route exact path="/side" component={Sidestage} />
-          <Route exact path="/harmonium" component={Harmonium} />
+          <Route exact path="/friday" component={Mainstage} />
+          <Route exact path="/saturday" component={Sidestage} />
+          <Route exact path="/sunday" component={Harmonium} />
           <Route exact path="/om" component={Om} />
           <Route path = "/myLineup/:id" component={sharemyLineup}/>
           </Switch>

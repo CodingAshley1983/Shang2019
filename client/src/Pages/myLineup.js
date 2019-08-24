@@ -91,8 +91,8 @@ class myLineup extends Component {
 
     render() {
         const { user } = this.props.auth;
-        const userId = this.props.auth.user.id
-        const url= window.location +"/"+ userId
+        const userId  = this.props.auth.user.id
+        const url = window.location +"/"+ userId
         console.log("Here's the URL",url)
         return (
             <React.Fragment>
@@ -101,6 +101,7 @@ class myLineup extends Component {
                         <h2> Welcome to myLineup, {user.name}!</h2><FontAwesomeIcon icon="user-check" />
                         <h6 style={{ color: "black" }}>See your shows!<br /> Easily Remove performers, or go look for new ones to check out.</h6><br />
                         <h6 style={{ color: "black" }}>Share with friends to meet up and git down!</h6>
+                        
                         <Link to="/search">
                            <Button 
                             variant="outline-info"
@@ -109,7 +110,7 @@ class myLineup extends Component {
                         </Button>
                         </Link>
                         <FacebookShareButton as Button
-                         className="button" variant="outline-info btn-large" url={window.location.href+"/"+this.props.auth.user.id} children={Schedule}  quote={"Check out myLineup for Shangri-La!      Get the Shang app:www.ShangApp.com"} hashtag={"#ShangriLa2019"}onClick={this.shareButton}>
+                         className="button" variant="outline-info btn-large" url={url} children={Schedule}  quote={"Check out myLineup for Shangri-La! Get the Shang app:www.ShangApp.com"} hashtag={"#ShangriLa2019"}onClick={this.shareButton}>
                             Share
                             
                         </FacebookShareButton>
@@ -120,6 +121,7 @@ class myLineup extends Component {
                         >
                             Logout
                         </Button>
+                        
                         </div>
                 </Jumbotron>
                 <Container>

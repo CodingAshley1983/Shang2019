@@ -12,7 +12,7 @@ module.exports = {
   },
   findMain:function(req,res){
     db.Bands
-    .find({stage:"Main"})
+    .find({day:"Friday"})
     .sort({ time: +1 })
     .then(dbModel=>res.json(dbModel))
     .catch(err=>res.status(422).json(err))
@@ -40,8 +40,8 @@ module.exports = {
 },
 findSide:function(req,res){
   db.Bands
-  .find({stage:"Side"})
-  .sort({ time: -1 })
+  .find({day:"Saturday"})
+  .sort({ time: +1 })
   .then(dbModel=>res.json(dbModel))
   .catch(err=>res.status(422).json(err))
 },
@@ -68,8 +68,8 @@ findSideSunday: function(req,res){
 },
 findHarmonium:function(req,res){
   db.Bands
-  .find({stage:"Harmonium"})
-  .sort({ time: -1 })
+  .find({day:"Sunday"})
+  .sort({ time: +1 })
   .then(dbModel=>res.json(dbModel))
   .catch(err=>res.status(422).json(err))
 },

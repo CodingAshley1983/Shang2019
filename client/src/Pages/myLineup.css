@@ -76,11 +76,11 @@
 
 .card-img-overlay{
     height:50px;
-    background-color:rgba(83, 83, 83, 0.7);
+    background-color:rgba(83, 83, 83, 0.9);
     width: 100%;
     color:hotpink;
     text-align: center;
-    font-size:16px;
+    font-size:.8em;
     font-weight: 500;
     
     margin-top: 53%;

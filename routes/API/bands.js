@@ -6,7 +6,7 @@ router.route("/")
   .get(bandsController.findAll)
   
 router
-.route("/main")
+.route("/friday")
 .get(bandsController.findMain)
 
 router
@@ -22,7 +22,7 @@ router
 .get(bandsController.findMainSunday)
 
 router
-.route("/side")
+.route("/saturday")
 .get(bandsController.findSide)
 
 router
@@ -38,7 +38,7 @@ router
 .get(bandsController.findSideSunday)
 
 router
-.route("/harmonium")
+.route("/sunday")
 .get(bandsController.findHarmonium)
 
 router

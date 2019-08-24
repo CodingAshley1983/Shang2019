@@ -14,8 +14,8 @@ const bandSeed = [
 
         "stage": "Main",
         "band": "Nahko & Medicine for the People",
-        "time": "11:00pm",
-        "day": "Friday",
+        "time": "11pm-12:45am",
+        "day": "Saturday",
         "image": "http://nahko.com/wp-content/uploads/2017/09/nahko-slider-with-title.jpg",
         "url": "http://nahko.com/home/",
         "bio": "Nahko, an Oregon-native born a mix of Puerto Rican, Native American, and Filipino bloodlines considers himself a citizen in service to the planet. Disillusioned by the world around him and inspired by vagabond, Americana musicians and storytellers like Conor Oberst and Bob Dylan, Nahko left home as a teenager in search of adventure and self discovery. Armed with stories, a guitar, and a fierce set of ideals, he set out to bridge the cultural gaps dividing his own psyche. He began producing a public, musical journal of his journey toward personal, spiritual, and social healing, and thus Medicine for the People was born. Recently, Nahko discussed his successes, his philosophies, his music, and his life with Huffington Post, who called Nahko’s music “beautiful and stirring.” Nahko describes his music as a mix of hip-hop and folk rock with a world message."
@@ -25,16 +25,16 @@ const bandSeed = [
         "stage": "Main",
         "band": "Wookiefoot",
         "time": "11:00pm",
-        "day": "Saturday",
-        "image": "https://shangrilafest.com/wp-content/uploads/2019/02/Wookiefoot-SL-2018-Slider--1200x500.jpg",
+        "day": "Sunday",
+        "image": "https://firebasestorage.googleapis.com/v0/b/art-portfolio-project02.appspot.com/o/wookiefoot.jpg?alt=media&token=d4257b30-c1d4-48a8-908c-3ee22c4a4ec0",
         "url": "http://www.wookiefoot.com",
         "bio": "Wookiefoot is a band, a 501C3 Non-Profit Charity Organization, a circus, a philosophy, and a community of globe trekking bliss junkies and believers that are the fuel to keep this Tribadelic Spaceship going! Their charity organization (with the support of their community) has donated over $500,000 to third world relief efforts. Wookiefoot’s live sets are an always inspiring and entertaining barrage of sonic and visual stimulation. The fast-paced circus-like set has been called “Short Attention Span Musical Theater”. These live performances are a one of a kind experience that mixes Reggae, World Beat, Hip Hop, Irish, Funk, Folk, Rock & more with a large band featuring everything from a vintage Hammond Organ to Bag Pipes! Combine that with a mind-blowing stage show that may include anything (such as a light show, projection, costumes, fire, dancers, aerialists, magic, clowns, puppets, etc)… and you better buckle up!"
     },
     {
 
-        "stage": "Main",
+        "stage": "Harmonium",
         "band": "Dirtwire",
-        "time": "1:00am",
+        "time": "11:00pm-12:45am",
         "day": "Friday",
         "image": "https://selloutapp.storage.googleapis.com/image/event/dirtwire.jpeg",
         "url": "http://www.dirtwire.com",
@@ -42,21 +42,21 @@ const bandSeed = [
     },
     {
 
-        "stage": "Main",
+        "stage": "Side",
         "band": "Satsang",
         "time": "9:00pm",
-        "day": "Saturday",
+        "day": "Sunday",
         "image": "https://image-ticketfly.imgix.net/00/02/73/25/37-og.JPG?w=500&h=333",
         "url": "http://www.satsangmovement.com/about",
         "bio": "Satsang is a power trio creating a unique blend of soul, folk-rock, and hip-hop.  Satsang delivers lyrics that come from and are rooted in change, growth, awareness, and imperfection. "
     },
     {
 
-        "stage": "Main",
+        "stage": "Side",
         "band": "The Movement",
-        "time": "7:00pm",
+        "time": "8-9:30pm",
         "day": "Saturday",
-        "image": "http://www.northwestmilitary.com/calendar/we-recommend/2014/12/The-Movement-reggae-band-at-Jazzbones-Tacoma-December-7/uploads/articles/25169-banner-The-movement-reggae-band.jpg",
+        "image": "https://firebasestorage.googleapis.com/v0/b/art-portfolio-project02.appspot.com/o/themovement.jpg?alt=media&token=ca8ad7db-1e50-490f-933e-6b3ab0ae94d1",
         "url": "https://www.themovementvibe.com/",
         "bio": "Formed in 2003 by a trio of Sublime and Pixies fans, The Movement’s debut album, ON YOUR FEET (2004), has been heralded as one of the “top 10 reggae rock albums of all time,” and the band has toured with legends from 311 to Parliament, Slightly Stoopid to Dirty Heads, Wu-Tang Clan, Steel Pulse, Stick Figure, Pepper, and more."
     },
@@ -74,10 +74,10 @@ const bandSeed = [
 
     {
 
-        "stage": "Side",
+        "stage": "Harmonium",
         "band": "Tropidelic",
-        "time": "8:00pm",
-        "day": "Saturday",
+        "time": "8:30-10pm",
+        "day": "Friday",
         "image": "https://shangrilafest.com/wp-content/uploads/2019/02/Tropidelic-sized.jpg",
         "url": "http://tropidelic.com/",
         "bio": "These seasoned road dogs can be found spreading their soulful sound across the country in both intimate venues and music festivals, having shared the stage with and supported such acts as 311, Slightly Stoopid, The Dirty Heads, Pepper and The Wailers. "
@@ -87,8 +87,8 @@ const bandSeed = [
 
         "stage": "Side",
         "band": "Ayla Nero",
-        "time": "7:45",
-        "day": "Friday",
+        "time": "2:30-3:45pm",
+        "day": "Saturday",
         "image": "https://shangrilafest.com/wp-content/uploads/2019/02/ayla-Sized.jpg",
         "url": "http://aylanereo.com/",
         "bio": "Ayla Nereo is a voice for the planet, a beacon of light, a modern bard of beauty singing directly from her soul. With lyrical poetry splashing like dazzling paint across a canvas of sound, she builds layer upon layer of vocal melodies into majestic loop-pedal harmonies, weaving syncopated threads of guitar, kalimba, piano, and percussion into her live performances. "
@@ -96,9 +96,9 @@ const bandSeed = [
 
     {
 
-        "stage": "Harmonium",
+        "stage": "Side",
         "band": "Roots Of Creation",
-        "time": "8:00pm",
+        "time": "5:00-6:30pm",
         "day": "Saturday",
         "image": "https://shangrilafest.com/wp-content/uploads/2019/02/Roots-of-Creation-sized.jpg",
         "url": "https://www.rootsofcreation.com/",
@@ -127,10 +127,10 @@ const bandSeed = [
         "bio": "The story of Indubious is not for the faint of heart. Like a phoenix rising from the ashes, Indubious was forged in the fires of pain and destruction. Evton and Skip, brothers and bandmates born with Cystic Fibrosis and convinced by doctors of their impending death from an early age, have emerged as a powerful force for change and the future of conscious music. Their only choice has always been mind over matter, and time has proven that their unbending positive outlook, combined with an inspiring message of love and hope, has not only helped them overcome personal hardship, but catapulted their music onto the world stage with an unstoppable momentum."
     },
     {
-        "stage": "Harmonium",
+        "stage": "Main",
         "band": "Jonny Wayne",
-        "time": "8:00pm",
-        "day": "Fri",
+        "time": "3:45pm",
+        "day": "Friday",
         "image": "https://shangrilafest.com/wp-content/uploads/2019/02/Jonny-wayne-sized.jpg",
         "url": "https://www.jonwayneandthepain.com/",
         "bio": "Jonny Wayne, lead singer of Jon Wayne and The Pain spent the last year in Asia writing and recording new music. This year brings us his new project to Shang taking things back to the acoustic and reggae roots the caught on in the beginning. This should be a crowd favorite for the old school JWP fans as well as the new family. Cheers!"
@@ -138,9 +138,9 @@ const bandSeed = [
 
     {
 
-        "stage": "Side",
+        "stage": "Main",
         "band": "Tubby Love and Amber Lily",
-        "time": "6:00pm",
+        "time": "6:30pm-8pm",
         "day": "Saturday",
         "image": "https://shangrilafest.com/wp-content/uploads/2019/02/tubby-love-amber-lily-new-sized.jpg",
         "url": "https://www.facebook.com/TU33YLOVE",
@@ -151,11 +151,11 @@ const bandSeed = [
 
     {
 
-        "stage": "Harmonium",
+        "stage": "Side",
         "band": "Linear Symmetry",
-        "time": "4:00pm",
+        "time": "9:30pm",
         "day": "Saturday",
-        "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/36329136_1026040334229115_5382197580757204992_o.jpg?_nc_cat=104&_nc_ht=scontent-dfw5-1.xx&oh=1dd2b1ee91afa99f99377783a37e2bfc&oe=5D17F51C",
+        "image": "https://firebasestorage.googleapis.com/v0/b/art-portfolio-project02.appspot.com/o/Linear-Symmetry-sized.jpg?alt=media&token=8cea7668-440a-40c2-8576-2c1c2f28c86d-1.xx.fbcdn.net/v/t1.0-9/36329136_1026040334229115_5382197580757204992_o.jpg?_nc_cat=104&_nc_ht=scontent-dfw5-1.xx&oh=1dd2b1ee91afa99f99377783a37e2bfc&oe=5D17F51C",
         "url": "http://www.linearsymmetry.com",
         "bio": "A unique trio hailing from the heart of the Midwest, Linear Symmetry combines forces to produce electrifying organic dance music. From the first note, Huma immediately captivates audiences with her soaring vocals, stunning violin and dazzling energy. "
     },
@@ -166,7 +166,7 @@ const bandSeed = [
         "band": "TreeHouse",
         "time": "4:00pm",
         "day": "Saturday",
-        "image": "https://d3jjg4nf4bbybe.cloudfront.net/u/251755/9232821ab5a635397ddcd42fbd3921d3eb65923e/large/deacom101718-11.jpg",
+        "image": "https://firebasestorage.googleapis.com/v0/b/art-portfolio-project02.appspot.com/o/treehouse2-1.jpg?alt=media&token=c4d92701-b8e7-4557-8e4e-dcafe27f73d8",
         "url": "https://www.treehousetheband.com/",
         "bio": "TreeHouse! songs resonate in your soul with lyrics of rising above adversity, the power of gratitude, and the importance of unity. For every setback, there's a step up waiting for you if you keep your focus. For every day, there's a blessing to count and for every event, we must recognize we are a part of it all. It's this kind of message that makes the most recent studio album, Lifted, their strongest release to date."
     },
@@ -196,9 +196,9 @@ const bandSeed = [
 
     {
 
-        "stage": "Side",
+        "stage": "Harmonium",
         "band": "Useful Jenkins",
-        "time": "6:00pm",
+        "time": "6-7:30pm",
         "day": "Friday",
         "image": "https://shangrilafest.com/wp-content/uploads/2018/03/SL18_UsefulJenkins.jpg",
         "url": "http://www.usefuljenkins.com/",
@@ -216,9 +216,9 @@ const bandSeed = [
     },
     {
 
-        "stage": "Side",
+        "stage": "Harmonium",
         "band": "Smokin' Joe",
-        "time": "6:00pm",
+        "time": "9:15-10:30pm",
         "day": "Friday",
         "image": "https://shangrilafest.com/wp-content/uploads/2019/02/Smokin-Joe-sized.jpg",
         "url": "https://www.reverbnation.com/smokinjoeiowa",
@@ -238,7 +238,7 @@ const bandSeed = [
 
         "stage": "Harmonium",
         "band": "Gypse Freq Circus",
-        "time": "3:00pm",
+        "time": "11:30-12:45am",
         "day": "Saturday",
         "image": "https://shangrilafest.com/wp-content/uploads/2019/02/Gypse-Freq-Circus-sized.jpg",
         "url": "https://gypsefreqcircus.com/",
@@ -246,10 +246,10 @@ const bandSeed = [
     },
     {
 
-        "stage": "Side",
+        "stage": "Harmonium",
         "band": "Cosmic Serenity",
-        "time": "7:30pm",
-        "day": "Saturday",
+        "time": "3:45-5pm",
+        "day": "Friday",
         "image": "https://shangrilafest.com/wp-content/uploads/2018/03/SL18_CosmicSerenity.jpg",
         "url": "https://www.facebook.com/CosmicSerenityBand/",
         "bio": "With a side note of comedy, and eccentric yet eclectic style of fashion, and a folksy sound and gypsy vibe that amps up a crowd and keeps you moving your head, tapping your feet… or just get up and lay the boogie down!"
@@ -258,7 +258,7 @@ const bandSeed = [
 
         "stage": "Harmonium",
         "band": "OK2Change",
-        "time": "5:00pm",
+        "time": "1:30pm-2:45pm",
         "day": "Saturday",
         "image": "https://shangrilafest.com/wp-content/uploads/2018/07/sl18_0007_oktochange.jpg",
         "url": "http://www.ok2change.com/",
@@ -268,7 +268,7 @@ const bandSeed = [
 
         "stage": "Side",
         "band": "Dacota Muckey",
-        "time": "5:30pm",
+        "time": "7-8:15pm",
         "day": "Saturday",
         "image": "https://shangrilafest.com/wp-content/uploads/2019/03/DacotaMuckey.jpg",
         "url": "https://www.dacotamuckey.com/",
@@ -287,10 +287,10 @@ const bandSeed = [
 
     {
 
-        "stage": "Harmonium",
+        "stage": "Main",
         "band": "New Reb",
-        "time": "5:30pm",
-        "day": "Friday",
+        "time": "1:15-2:30pm",
+        "day": "Saturday",
         "image": "https://shangrilafest.com/wp-content/uploads/2018/07/newreb.jpg",
         "url": "http://www.newreb.com/",
         "bio": "New Reb is not just music… it’s a movement of people who want to better themselves for the sake of the planet, the universe. A movement to help people gain consciousness, and awareness of whats going on around them. A movement that promotes positivity and the realization that we are all mirrors, and that we all reflect upon one another."
@@ -311,8 +311,8 @@ const bandSeed = [
 
         "stage": "Side",
         "band": "Spare Change Trio",
-        "time": "2:00pm",
-        "day": "Friday",
+        "time": "1:45-2:45pm",
+        "day": "Saturday",
         "image": "https://shangrilafest.com/wp-content/uploads/2018/07/sparechangetrio.jpg",
         "url": "http://www.sparechangetrio.com/",
         "bio": "This Milwaukee-based group, known largely for their eclectic live performances that incorporate the Australian didgeridoo into flowing soundscapes of reggae, funk, and jazz-fusion, consistently leave audiences wanting more. Deeply rooted in the positive message of reggae music, the band has grown to realize their calling: to spread peace, love, and harmony… while laying down an infectious groove."
@@ -334,8 +334,8 @@ const bandSeed = [
 
         "stage": "Harmonium",
         "band": "Christina Holmes",
-        "time": "2:30pm",
-        "day": "Friday",
+        "time": "12-1:15pm",
+        "day": "Saturday",
         "image": "https://shangrilafest.com/wp-content/uploads/2019/03/Christina-Holmes.jpg",
         "url": "http://www.sparechangetrio.com/",
         "bio": "When Christina Holmes sings, walls, barriers, and boundaries disappear.In the classic troubadour tradition, the New Jersey-born and Rhode Island-based songstress shares a piece of herself in every composition, welcoming listeners closer. Finding a sweet spot in the middle of acoustic, folk, reggae, rock, and pop music, she represents the same values and vision on stage and off."
@@ -352,10 +352,10 @@ const bandSeed = [
     },
     {
 
-        "stage": "Om Dome",
+        "stage": "Harmonium",
         "band": "Cas Haley",
-        "time": "6:30pm",
-        "day": "Friday",
+        "time": "12-1pm",
+        "day": "Saturday",
         "image": "https://static.wixstatic.com/media/38b2fc_e26f7888b6ce4fd3bbb9bedee5eb4ae0~mv2.jpg/v1/fill/w_393,h_264,al_c,q_80,usm_0.66_1.00_0.01/38b2fc_e26f7888b6ce4fd3bbb9bedee5eb4ae0~mv2.webp",
         "url": "https://www.facebook.com/cashaleymusic/",
         "bio": " Texas Native, Cas Haley is a soulful -singer/songwriter /producer with an eclectic southern FLIPPED bluesy surf-roots sound."
@@ -369,10 +369,26 @@ const bandSeed = [
         "image": "https://static.wixstatic.com/media/38b2fc_54d05b0df7f94cf392731cd9bfe579cf~mv2.jpg/v1/fill/w_393,h_264,al_c,q_80,usm_0.66_1.00_0.01/38b2fc_54d05b0df7f94cf392731cd9bfe579cf~mv2.webp",
         "url": "https://www.facebook.com/Riconekt/",
         "bio": " I am an activist, artist, & Lyracist striving to bring EMPOWERING words to the people. I Rap, sing, beatbox, & play the ukulele with a variety of musicians. I've been traveling almost a decade sharing my conscious flowetry with the world."
+    },
+    {
+        "stage": "Harmonium",
+        "band": "Mike Love",
+        "time": "6pm",
+        "day":  "Sunday",
+        "image": "https://firebasestorage.googleapis.com/v0/b/art-portfolio-project02.appspot.com/o/themovement.jpg?alt=media&token=ca8ad7db-1e50-490f-933e-6b3ab0ae94d1",
+        "url":  "https://www.mikelovemusic.com",
+        "bio": "In this modern age of music, genres blend together as naturally as the river flows into the sea.  With the expansive library of all the music of the world from every time period at our fingertips, creative artists seem to be more and more liberated from the archaic mentality of being pigeonholed into one genre or demographic.  Mike Love is at the forefront of this movement.  With a foundation rooted in the spirituality and message-based music of Reggae and Rastafari, he blends the sounds of progressive and classic rock, pop, R & B, soul, blues, flamenco, jazz and so much more.  Healing is at the core of his music.  With ever evolving live performances, Love keeps his organically grown fanbase returning again and again to witness the evolution of tried and true fan favorites, and the ever-expanding repertoire of new music that is constantly surfacing.  Fans often leave live performances remarking about how they have just been to church, or had a bad day turned around.",
+    },
+    {
+        "stage": "Harmonium",
+        "band": "Nattali Rize",
+        "time": "7:30-4:50pm",
+        "day": "Saturday",
+        "image": "https://firebasestorage.googleapis.com/v0/b/art-portfolio-project02.appspot.com/o/Natalie-Rize.jpg?alt=media&token=63546b21-c6c7-4704-bc60-3d40ff2b1fec",
+        "url": "https://www.facebook.com/Riconekt/",
+        "bio": " Ask her where she comes from and she’ll tell you “All directions.” It’s an apt description of a singer who defies boundaries; culturally, musically and spiritually.  Known for their epic, high energy, thought provoking and uplifting live performances, with a heavy global tour schedule, the new international band (Australia/Jamaica) delivers a raw energy and vibe, channeling a deep reggae influence in a New Era Style. But this is more than genre labels. The music, message & intention transcends. Get ready to be moved!"
+
     }
-
-
-
 ];
 console.log("end of the band data", db.Bands)
 db.Bands

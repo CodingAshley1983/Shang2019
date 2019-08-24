@@ -92,9 +92,9 @@ render(){
           Stages</Dropdown.Toggle>
         <Dropdown.Menu>
           <Link to="/search">Full Lineup</Link><br />
-          <Link to="/main">Main Stage</Link><br />
-          <Link to="/side">Side Stage</Link><br />
-          <Link to="/harmonium">Harmonium</Link><br />
+          <Link to="/friday">Friday</Link><br />
+          <Link to="/saturday">Saturday</Link><br />
+          <Link to="/sunday">Sunday</Link><br />
           <Link to="/om">Om Dome</Link><br />
         </Dropdown.Menu>
       </Dropdown>

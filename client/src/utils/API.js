@@ -12,7 +12,7 @@ export default {
 
   //Main stage bands
   getMain: function () {
-    return axios.get("/api/bands/main");
+    return axios.get("/api/bands/friday");
   },
 
   //Main stage Fri bands
@@ -32,7 +32,7 @@ export default {
 
   //Side All
   getSide: function () {
-    return axios.get("/api/bands/side")
+    return axios.get("/api/bands/saturday")
   },
 
   //Side Fri
@@ -49,7 +49,7 @@ export default {
   },
   //Harmonium All
   getHarmonium: function () {
-    return axios.get("/api/bands/harmonium")
+    return axios.get("/api/bands/sunday")
   },
   //Harmonium Fri
   getHarmoniumFriday: function () {
