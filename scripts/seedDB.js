@@ -352,9 +352,9 @@ const bandSeed = [
     },
     {
 
-        "stage": "Harmonium",
+        "stage": "Om Dome",
         "band": "Cas Haley",
-        "time": "12-1pm",
+        "time": "6:15-7pm",
         "day": "Saturday",
         "image": "https://static.wixstatic.com/media/38b2fc_e26f7888b6ce4fd3bbb9bedee5eb4ae0~mv2.jpg/v1/fill/w_393,h_264,al_c,q_80,usm_0.66_1.00_0.01/38b2fc_e26f7888b6ce4fd3bbb9bedee5eb4ae0~mv2.webp",
         "url": "https://www.facebook.com/cashaleymusic/",
@@ -406,7 +406,288 @@ const bandSeed = [
         "image":"",
         "url": "",
         "bio": "",
-    }
+    }, 
+    {
+        "stage": "Om Dome", 
+        "band" : "Tim Kallevig", 
+        "time": "11-11:45am",
+        "day": "Saturday",
+        "image":"",
+        "url": "",
+        "bio":"",
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Michael Monster",
+        "time": "11-11:35am",
+        "day": "Sunday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "ITO",
+        "time": "12:40-1:35pm",
+        "day": "Sunday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Faye Adina",
+        "time": "2-2:45pm",
+        "day": "Sunday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Jeremy Beaman Music",
+        "time": "3:15-4:30pm",
+        "day": "Sunday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Kuf Knotz",
+        "time": "5:30-6:15pm",
+        "day": "Sunday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Rootz Within",
+        "time": "7:15-8pm",
+        "day": "Sunday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Mikey D",
+        "time": "9-9:45pm",
+        "day": "Sunday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Prevalent Nature",
+        "time": "10-11pm",
+        "day": "Sunday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Silent Jamz-T.N.M",
+        "time": "1-2:45am",
+        "day": "Sunday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Silent Jamz-LMZ",
+        "time": "3am-6am",
+        "day": "",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "ManCat",
+        "time": "11-11:35am",
+        "day": "Friday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Dani Reese",
+        "time": "11:40-12:15pm",
+        "day": "Friday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Aaron Hale",
+        "time": "12:30-1:15pm",
+        "day": "Friday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "CoZmic Theo",
+        "time": "2:30-3:15pm",
+        "day": "Friday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Confucisaurus",
+        "time": "7:30-8:15pm",
+        "day": "Friday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Goop City Music",
+        "time": "5-5:45pm",
+        "day": "Friday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Sierra Marin Band",
+        "time": "10-10:45pm",
+        "day": "Friday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Silent Jamz: Rennygade/Optimystic/Mammoth",
+        "time": "1-2:45am",
+        "day": "Friday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Silent Jamz: Modwell",
+        "time": "3am-6am",
+        "day": "Friday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Laryssa Birdseye",
+        "time": "1-1:45pm",
+        "day": "Saturday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Ren Stone",
+        "time": "2:45-3:30pm",
+        "day": "Saturday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "90 to Harmony",
+        "time": "4:30-5:15pm",
+        "day": "Saturday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Divine AF",
+        "time": "8:15-9pm",
+        "day": "Saturday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Adam Elfers",
+        "time": "10:34am-11:20pm",
+        "day": "Saturday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Gregory Bogard",
+        "time": "11:35-12:15am",
+        "day": "Saturday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Silent Jams: Pato",
+        "time": "1:00am-2:45am",
+        "day": "Saturday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    {
+        "stage": "Om Dome",
+        "band" : "Silent Jamz: DJ Wigglez",
+        "time": "3am-6am",
+        "day": "Saturday",
+        "image": "",
+        "url": "",
+        "bio": "",
+
+    },
+    
+
 ];
 console.log("end of the band data", db.Bands)
 db.Bands
